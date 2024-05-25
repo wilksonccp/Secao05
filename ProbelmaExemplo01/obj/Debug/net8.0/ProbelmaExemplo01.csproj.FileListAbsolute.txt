@@ -12,3 +12,4 @@ c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Seca
 c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao05\ProbelmaExemplo01\obj\Debug\net8.0\ProbelmaExemplo01.pdb
 c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao05\ProbelmaExemplo01\obj\Debug\net8.0\ProbelmaExemplo01.genruntimeconfig.cache
 c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao05\ProbelmaExemplo01\obj\Debug\net8.0\ref\ProbelmaExemplo01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao05\ProbelmaExemplo01\obj\Debug\net8.0\ProbelmaExemplo01.sourcelink.json
